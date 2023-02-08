@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -A --group-directories-first --sort=alpha --quoting-style=shell-always | awk -vORS=',' '{print $0}' | sed 's/,$/\n/'
+ls -xamp
