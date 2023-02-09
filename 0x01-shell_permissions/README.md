@@ -9,11 +9,11 @@
 `groups` prints out all the groups the current user is part of.
 
 ## Task 3: New owner
-`chown` is used to change ownership of a file to another user.
+`chown` is used to change ownership of a file to another user.  
 *Syntax:* `chown new_user filename`
 
 ## Task 4: Empty!
-`touch` is used to create empty files
+`touch` is used to create empty files  
 *Syntax:* `touch filename`
 
 ## Task 5: Execute
