@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -L vincent:staff _hello
+chown -L vincent:staff _hello
