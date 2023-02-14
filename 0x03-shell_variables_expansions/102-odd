@@ -1,2 +1,2 @@
 #!/bin/bash
-{ read x; echo $x; while read y; do read z && echo $z; done; } < input_file
+awk 'NR % 2 == 1' input_file
